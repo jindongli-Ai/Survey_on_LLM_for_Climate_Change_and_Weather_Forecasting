@@ -1,4 +1,4 @@
-# Survey_on_LLM_for_Climate_Change_and_Weather_Forecasting
+# Harnessing Large Language Models (LLMs) for Climate Change and Weather Forecasting: A Survey
 
 The official GitHub page for the survey paper "Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond".
 
